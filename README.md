@@ -1,4 +1,4 @@
-नमस्ते (Namaste) 🙏, मैं (I'm) Naveen Jha ! 
+नमस्ते (Namaste) 🙏, I'm Naveen Jha ! 
 
 <!--
 **jhanaveenk/jhanaveenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
