@@ -1,7 +1,21 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Naveen <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<!-- <h3 align="center">A passionate Python and Front-End (and a beginner d developer from Brazil</h3> -->
+<!--Introduction -->
+I'm Just a **Programmer**:man_technologist:, looking to solve **real-world problems**:earth_asia:. I'm passionate about **Competitive Programming**, creating software:computer: , I like **learning** and **experimenting** with new technologies, building small **projects** . Do :star2: my repository if you find my projects interesting, at least your star could make someone's day :smile:.
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-- 🔭 I’m currently working on my **Python Course**
+<br/>
+
+### 💼  Things that I'm currently working on: 
+* Problem Solving Skills
+* MERN Stack
+* Some Personal Projects 😍
+
+
+
+<br/>
+<!-- - 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
@@ -9,7 +23,7 @@
 
 - 📫 How to reach me: **jhanaveen255@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course** -->
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
