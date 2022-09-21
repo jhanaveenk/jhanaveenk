@@ -6,9 +6,8 @@
 
 ### 💼  Things that I'm currently working on: 
 * Problem Solving Skills
-* MERN Stack
+* Backend Development
 * Some Personal Projects 😍
-<br>
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
