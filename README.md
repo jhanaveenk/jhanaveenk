@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen </h1>
-<h3 align="center">I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏</h3>
+<h3 align="center">I'm Just a person, looking to solve real-world problems🌏</h3>
 
 
 <img align="right" height="200" width="200" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
