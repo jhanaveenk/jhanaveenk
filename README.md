@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naveen </h1>
-<h3 align="center">I'm Just a person, looking to solve real-world problems🌏</h3>
+<h3 align="center">Developer looking to solve real-world problems🌏</h3>
 
 
 <img align="right" height="200" width="200" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
 
-### 💼  Things that I'm currently working on: 
+### 💼  Things that I'm currently working on:
 * Problem Solving Skills
 * Backend Development
-* Some Personal Projects 😍
+* Some personal projects:
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
